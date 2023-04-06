@@ -1,0 +1,58 @@
+a {
+	color: #007399;
+}
+.btn-primary {
+	background-color: #007399;
+	border-color: #007399;
+}
+.btn-link {
+	color: #007399;
+}
+.alert-info {
+	font-size: 1em;
+	background-color: #007399;
+	border-color: #007399;
+}
+
+.hero {
+	background-color: #888;
+}
+
+.competition-list .end-date {
+	color: #666;
+}
+
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+	background-color: #007399;
+	border-left-color: #007399;
+}
+
+.sticky-wrapper .progress-bar {
+	background-color: #007399;
+}
+
+.btn-success,
+.alert-success {
+	background-color: #1B5E20;
+	border-color: #1B5E20;
+}
+.label-success,
+.progress-bar-success {
+	background-color: #1B5E20 !important;
+}
+
+.alert-success {
+	background-color: transparent;
+	color: #1B5E20;
+}
+
+button.close {
+	color: #1B5E20;
+	margin-top: -5px;
+}
+
+.badge {
+	color: #666;
+}
