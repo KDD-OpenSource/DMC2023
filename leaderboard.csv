@@ -1,6 +1,6 @@
 score,name,description
 ,rf_geolevelordered,ADD DESCRIPTION
-,xgboost_raw,ADD DESCRIPTION
+0.744,xgboost_raw, xgboost using 500 estimators with max tree depth of 8 and learning rate of 0.2 (Categorical values encoded using sklearn's OrdinalEncoder).
 ,always1,always predicts 1
 ,always2,always predicts 2
 ,always3,always predicts 3
