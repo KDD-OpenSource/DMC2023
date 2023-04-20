@@ -1,0 +1,6 @@
+score,name,description
+,rf_geolevelordered,ADD DESCRIPTION
+,xgboost_raw,ADD DESCRIPTION
+,always1,always predicts 1
+,always2,always predicts 2
+,always3,always predicts 3
